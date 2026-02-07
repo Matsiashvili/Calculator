@@ -1,4 +1,5 @@
 Calculator App 🧮
+
 📌 Project Overview
 
 Calculator App is an educational Android application designed to perform basic arithmetic operations.
@@ -8,22 +9,22 @@ This project was developed for learning and academic purposes and is not intende
 
 ✨ Features
 
-    Perform addition, subtraction, multiplication, and division
-    Button-based numeric input
-    Real-time calculation results
-    Simple and clean user interface
+Perform addition, subtraction, multiplication, and division
+Button-based numeric input
+Real-time calculation results
+Simple and clean user interface
 
 🛠️ Tech Stack
 
-    Language: Kotlin
-    UI: XML Layouts
-    Tools: Android Studio, Git, GitHub
+Language: Kotlin
+UI: XML Layouts
+Tools: Android Studio, Git, GitHub
 
 🚀 Future Improvements
 
-    Add advanced mathematical operations
-    Improve UI design and animations
-    Implement better error handling
+Add advanced mathematical operations
+Improve UI design and animations
+Implement better error handling
 
 👩‍💻 Developer
 
